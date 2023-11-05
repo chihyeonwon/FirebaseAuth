@@ -8,3 +8,8 @@ FirebaseAuth 개발 경험 정리
 firebaseAuth 객체의 metadata 메타데이터 정보 중에 creationTime을 utc 형식으로 보여주는 메서드가 있었고
 이 데이터의 포맷형식을 SimpleDateFormat 메서드를 사용하여 한국의 날짜 형식으로 수정하였고 이를 xml에 넘겨주었다.
 ```
+## FirebaseAuth 이메일인증
+
+## FirebaseAuth 친구추가 기능
+
+## FirebaseAuth 친구 리스트 기능
