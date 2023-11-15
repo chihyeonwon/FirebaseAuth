@@ -11,5 +11,12 @@ firebaseAuth 객체의 metadata 메타데이터 정보 중에 creationTime을 ut
 ## FirebaseAuth 이메일인증
 
 ## FirebaseAuth 친구추가 기능
+![image](https://github.com/mr-won/FirebaseAuth/assets/58906858/138cfbf5-190c-43a4-bf8e-524e2b498b70)     
+![image](https://github.com/mr-won/FirebaseAuth/assets/58906858/92a4af20-b9cf-456b-a857-2733f92d186d)    
+```
+회원가입을 할 때 회원가입에 성공한 email을 user 데이터베이스에 넣었다.
+user 데이터베이스의 데이터를 받아올 때 친구추가 리스트에 넣은 텍스트와 비교해서 그 텍스트를 포함한 데이터라면
+userList에 추가하도록 해서 친구추가할 유저를 검색하는 기능을 개발하였다.
+```
 
 ## FirebaseAuth 친구 리스트 기능
